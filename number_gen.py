@@ -36,7 +36,7 @@ if __name__ == "__main__":
  ██████     ██    ██             ███ ███   ██████  ██   ██ ██████  ███████ ██ ███████    ██    ███████ ██   ██ 
                                                                                                                
 \033[0m
-    \033[4mGitHub:\033[0m https://github.com//otp-wordlister
+    \033[4mGitHub:\033[0m https://github.com/harsh-prajapati1312/otp-wordlister
 """
 
 
